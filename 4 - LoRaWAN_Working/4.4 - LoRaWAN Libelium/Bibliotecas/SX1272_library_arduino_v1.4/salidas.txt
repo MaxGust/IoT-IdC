@@ -1,0 +1,136 @@
+-----------------------------------------------------------------
+
+20160216 Salida: arduinoLoRa-library_v1_4.zip
+
+arduino-api
+-> arduino-api\arduino-api\arduino-api-v1_4
+
+arduino-libraries
+-> arduino-api\arduino-libraries\arduinoLoRa_v1_4
+
+arduino-examples
+-> arduino-api\arduino-examples\03.Communication\LoRa_v1_2
+
+-----------------------------------------------------------------
+
+20160208 Salida: arduinoCANBUS-library_v0_3.zip
+
+arduino-api
+-> arduino-api\arduino-api\arduino-api-v1_4
+
+arduino-libraries
+-> arduino-api\arduino-libraries\arduinoCANBUS_v0_3
+
+arduino-examples
+-> arduino-api\arduino-examples\03.Communication\CANBUS_v0_3
+
+-----------------------------------------------------------------
+
+20160208 Salida: arduinoRS485-Modbus-library_v0_3.zip
+
+arduino-api
+-> arduino-api\arduino-api\arduino-api-v1_4
+
+arduino-libraries
+-> arduino-api\arduino-libraries\arduinoRS485_v0_3
+
+arduino-examples
+-> arduino-api\arduino-examples\03.Communication\RS485_v0_3
+
+-----------------------------------------------------------------
+
+20160128 Salida: arduinoCANBUS-library_v0_2.zip
+
+arduino-api
+-> arduino-api\arduino-api\arduino-api-v1_4
+
+arduino-libraries
+-> arduino-api\arduino-libraries\arduinoCANBUS_v0_2
+
+arduino-examples
+-> arduino-api\arduino-examples\03.Communication\CANBUS_v0_2
+
+-----------------------------------------------------------------
+
+20160128 Salida: arduinoRS485-Modbus-library_v0_2.zip
+
+arduino-api
+-> arduino-api\arduino-api\arduino-api-v1_4
+
+arduino-libraries
+-> arduino-api\arduino-libraries\arduinoRS485_v0_2
+
+arduino-examples
+-> arduino-api\arduino-examples\03.Communication\RS485_v0_2
+
+------------------------------------------------------------------
+
+20160127 Salida: arduinoRS232-Modbus-library_v0_2.zip
+
+arduino-api
+-> arduino-api\arduino-api\arduino-api-v1_4
+
+arduino-libraries
+-> arduino-api\arduino-libraries\arduinoRS232_v0_2
+
+arduino-examples
+-> arduino-api\arduino-examples\03.Communication\RS232_v0_2
+
+------------------------------------------------------------------
+
+20160127 Salida: arduinoLoRaWAN-library_v1_1.zip
+
+arduino-api
+-> arduino-api\arduino-api\arduino-api-v1_4
+
+arduino-libraries
+-> arduino-api\arduino-libraries\arduionoLoRaWAN_v1_1
+
+arduino-examples
+-> arduino-api\arduino-examples\03.Communication\LoRaWAN_v1_1
+
+------------------------------------------------------------------
+
+20160126 Salida: arduino-api-v1_4.zip
+
+arduino-api
+-> arduino-api\arduino-api\arduino-api-v1_4
+
+-----------------------------------------------------------------
+
+20160126 Salida: arduinoSigfox-library_v1_1.zip
+
+arduino-api
+-> arduino-api\arduino-api\arduino-api-v1_4
+
+arduino-libraries
+-> arduino-api\arduino-libraries\arduionoSigfox_v1_1
+
+arduino-examples
+-> arduino-api\arduino-examples\03.Communication\Sigfox_v1_2
+
+-----------------------------------------------------------------
+
+20151125 Salida: LoRaWAN_library_arduino_v1_0.zip
+
+arduino-api
+-> arduino-api\arduino-api\cooking-api-v1_2
+
+arduino-libraries
+-> arduino-api\arduino-libraries\arduinoLoRaWAN_v1_0
+
+arduino-examples
+-> arduino-api\arduino-examples\03.Communication\LoRaWAN_v1_0
+
+------------------------------------------------------------------
+
+20151008 Salida: sigfox_library_arduino_v1_0.zip
+
+arduino-api
+-> arduino-api\arduino-api\cooking-api-v1_0 
+
+arduino-libraries
+-> arduino-api\arduino-libraries\cookingSigfox_v1_0 
+
+arduino-examples
+-> arduino-api\arduino-examples\03.Communication\Sigfox_v1_0 

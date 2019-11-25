@@ -1,0 +1,8 @@
+Arduino IDE
+
+- Abrir programa
+- Separador (Rasconho) - incluir biblioteca - adicionar biblioteca ZIP
+
+- escolher arduino-apiv1_4 e arduinoLoRa v1_4
+
+Fica disponivel nos exemplos RX ou TX

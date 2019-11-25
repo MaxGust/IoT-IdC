@@ -1,0 +1,11 @@
+
+------- Dar uma vista de olhos -----------
+
+https://randomnerdtutorials.com/getting-started-with-node-red-on-raspberry-pi/
+
+https://blogmasterwalkershop.com.br/?s=node-red
+
+https://randomnerdtutorials.com/getting-started-with-node-red-dashboard/
+
+https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
+

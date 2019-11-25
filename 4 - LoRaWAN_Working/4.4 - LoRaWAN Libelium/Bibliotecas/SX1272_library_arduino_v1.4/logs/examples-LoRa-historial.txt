@@ -1,0 +1,6 @@
+20160121 LoRa_v1_2:
+-> Change name from SX1272 to arduinoLoRa for homogeneity.
+-> Fixed bug in initialization error (e) handled.
+
+20160121 LoRa_v1_1:
+-> Reference examples From Web

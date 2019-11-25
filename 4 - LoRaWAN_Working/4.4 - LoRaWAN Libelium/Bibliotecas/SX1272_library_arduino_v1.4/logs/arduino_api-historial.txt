@@ -1,0 +1,58 @@
+20160126 arduino-api-v1_4:
+-> Added Ahmad to Utils Header.
+-> Fixed Expansor functions in Utils for power stability delay(100)
+-> Inslolate API from library. Now arduino-api and library directories need... mpre organized.
+-> Need include "Wire.h" in arduino sketch (some bug in arduino IDE locks declare it somewhere else).
+-> Merge MCP23008 expanssor library in arduino-api. Modified Utils and Classes.
+-> Added Coloring Map for sintax.
+
+20160125 arduino-api-v1_3:
+-> NOTE: need intall addon MCP230008.zip library and now we need the arduinoMultiprotocol.h
+   header in arduino-api directory
+-> Added Support for "Multiprotocol Shield v2.0"
+   -> New Utils functions:
+       void multiprotocolBegin();
+       void disableMUX();
+
+       void setMUXSocket0();
+       void setONSocket0();
+       void setOFFSocket0();
+       void setCSSocket0();
+       void unsetCSSocket0();
+
+       void setMUXSocket1();
+       void setONSocket1();
+       void setOFFSocket1();
+       void setCSSocket1();
+       void unsetCSSocket1();
+-> change name from cooking-api to arduino-api.
+
+20151125 cooking-api-v1_2:
+-> code cleanup. Headers.
+
+20151124 cooking-api-v1_2b:
+-> added SOCKET0 and SOCKET1 definitions to arduinoUART.h
+-> added power pins for SOCKETs SOCKET0_PW, SOCKET1_PW
+-> added mux handled functions
+-> decrease UART _buffer[512] -> _buffer[256] in ArduinoUART.h
+
+20151116 cooking-api-v1_1:
+-> cambio de nombre a arduino. 
+-> reestablecidas cabeceras originales. Eliminamos Sigfox de las cabeceras. Actualizamos version.
+-> eliminamos UART_DEBUG. No soportado en Arduino UNO.
+-> eliminate arduino.h include in arduinoUART.cpp and added to arduinoClasses.h
+
+20151008 cooking-api-v1_0:
+-> Limpieza de comentarios.
+-> Modificación de cabeceras.
+-> Salida para módulos Sigfox. Compatibilidad para Arduino y ArduPi.
+
+20151006 cooking-api-v0_9:
+-> Cambio de nombre arduino-api a cooking-api (esta api debe ser compatible para Raspberry Pi).
+-> Añado clase cookingUtils para soporte de funciones útiles. Sigfox utiliza hex2str. Futuras portaciones requeriran seguramente nuevas funciones.
+-> Muevo las funciones de compatibilidad con Arduino a la cabecera y añado directiva para el compilador.
+
+20151004 cooking-api-v0_8:
+-> Primeras pruebas para portar waspmote-api -> cooking-api
+-> Añado a arduinoUART funciones de patch para Arduino hardware_serial extendida a waspmote wiring_serial
+

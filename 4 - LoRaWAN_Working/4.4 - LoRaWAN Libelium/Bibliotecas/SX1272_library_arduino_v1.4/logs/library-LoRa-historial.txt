@@ -1,0 +1,13 @@
+20160216 arduinoLoRa_v1_4:
+-> Cange name from SX1272 to arduinoLoRa for homegenization arduino-api structure.
+-> Added definition for LORA_RESET_PIN.
+-> Added arduino-api and arduinoMultiprotocol includes.
+-> Support for "Multiprotocol Radio Shield v2.0"
+-> Modified ON(), OFF(),readRegister() and writeRegister() functions to allow
+multiprotocol expansor management.
+
+20160121 arduinoLoRa_v1_3:
+-> Added Reset Sequence.
+
+20160121 arduinoCLoRa_v1_1:
+-> Original Lib from Web.
