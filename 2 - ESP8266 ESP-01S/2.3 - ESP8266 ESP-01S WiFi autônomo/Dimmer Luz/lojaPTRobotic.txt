@@ -1,0 +1,19 @@
+Placa Dimmer (6,15 €)
+https://www.ptrobotics.com/varios/6462-ac-light-dimmer-module-1-channel-33v5v-logic-ac-5060hz-220v110v.html
+- OU - (9,90 €)
+https://www.electrofun.pt/material-eletrico/modulo-regulador-de-luz-dimmer-220v-ac
+
+ESP8266 - ESP-01S - 3,3v (4,31 €)
+https://www.ptrobotics.com/wifi/3498-wifi-module-esp8266.html
+- OU - 
+ESP-12E NodeMCU (12,55€)
+https://www.ptrobotics.com/wifi/5600-nodemcu-board-esp8266-wifi-module-esp-12e-lua-wifi.html
+
+Tutorial
+https://www.youtube.com/watch?v=eFeOSiL-IBQ
+
+GitHub - Codigo
+https://github.com/nassir-malik/IOT-AC-Light-Dimmer-With-Alexa
+
+biblioteca necessária
+https://github.com/Aircoookie/Espalexa
