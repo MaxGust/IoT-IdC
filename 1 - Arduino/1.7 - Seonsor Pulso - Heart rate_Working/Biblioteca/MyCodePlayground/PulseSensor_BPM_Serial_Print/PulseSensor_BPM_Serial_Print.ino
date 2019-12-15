@@ -10,8 +10,8 @@ Additional Comment If Required
 */
 
 //  Variables
-const int PulseSensorPurplePin = 0;        // Pulse Sensor PURPLE WIRE connected to ANALOG PIN 0
-const int LED13 = 13;                     //  The on-board Arduion LED
+const int PulseSensorPurplePin = A5;        // Pulse Sensor PURPLE WIRE connected to ANALOG PIN 0
+const int LED13 = 10;                     //  The on-board Arduion LED
 int Threshold = 550;            // Determine which Signal to "count as a beat", and which to ingore.
 
 /*
@@ -21,7 +21,7 @@ PulseSensorPlayground pulseSensor;  // Creates an instance of the PulseSensorPla
 
 void setup() {
 
-  Serial.begin(9600);  // For Serial Monitor
+  Serial.begin(115200);  // For Serial Monitor
 
   // Configure the PulseSensor manager.
   pulseSensor.analogInput(PulseSensorPurplePin);
